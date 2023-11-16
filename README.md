@@ -20,5 +20,5 @@
 * WHEN the password is generated
 * THEN the password is either displayed in an alert or written to the page
 ## Mock up
-![](https://github.com/ttngbt06/Challenge_Module3/blob/main/MOCK-UP.gif)
+![](https://github.com/ttngbt06/Challenge_Module3/blob/main/assets/MOCK-UP.gif)
 
